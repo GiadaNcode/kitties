@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://GiadaNcode.github.io/kitties/manifests/cats.json",
+  "@type" : "sc:Manifest",
+  "label" : "Gatti",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "photos of cats",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://b988c357-145e-4653-9bf7-837058c46425",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://023881b3-5d29-473b-993b-64c730378f37",
+      "@type" : "sc:Canvas",
+      "label" : "gatto3",
+      "height" : 427,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://036f7d58-f2d2-47f3-a469-92a56ddc7516",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/kitties/images/kitty1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/kitties/images/kitty1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 427,
+          "width" : 640
+        },
+        "on" : "http://023881b3-5d29-473b-993b-64c730378f37"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://195b2e58-2cc5-4814-a161-71a9f1eec55c",
+      "@type" : "sc:Canvas",
+      "label" : "gatto2",
+      "height" : 496,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a4fd6b84-abe3-4fd4-988f-323fe78c0afa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/kitties/images/kitty3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/kitties/images/kitty3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 496,
+          "width" : 640
+        },
+        "on" : "http://195b2e58-2cc5-4814-a161-71a9f1eec55c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b64c5ab2-58e1-4cdd-9048-27857add76ee",
+      "@type" : "sc:Canvas",
+      "label" : "gatto1",
+      "height" : 427,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d79f75c6-e089-439d-aa5a-d0ce1fff60f0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://giadancode.github.io/kitties/images/kitty2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://giadancode.github.io/kitties/images/kitty2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 427,
+          "width" : 640
+        },
+        "on" : "http://b64c5ab2-58e1-4cdd-9048-27857add76ee"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
