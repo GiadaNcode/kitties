@@ -7,5 +7,249 @@
             "All images loaded in GiadaNcode/kitties project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://GiadaNcode.github.io/kitties/images/kitty2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "kitty2"
+                ]
+            },
+            "height": 427,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/kitties/images/kitty2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/kitties/images/kitty2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/kitties/images/kitty2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 14
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 27
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://GiadaNcode.github.io/kitties/images/kitty2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 427,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/kitties/images/kitty2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/kitties/images/kitty1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "kitty1"
+                ]
+            },
+            "height": 427,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/kitties/images/kitty1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/kitties/images/kitty1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/kitties/images/kitty1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 14
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 27
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 54
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://GiadaNcode.github.io/kitties/images/kitty1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 427,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/kitties/images/kitty1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://GiadaNcode.github.io/kitties/images/kitty3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "kitty3"
+                ]
+            },
+            "height": 496,
+            "width": 640,
+            "items": [
+                {
+                    "id": "https://GiadaNcode.github.io/kitties/images/kitty3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://GiadaNcode.github.io/kitties/images/kitty3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://GiadaNcode.github.io/kitties/images/kitty3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 40,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 80,
+                                                "height": 62
+                                            },
+                                            {
+                                                "width": 160,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 248
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 496
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 640,
+                                        "@id": "https://GiadaNcode.github.io/kitties/images/kitty3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 496,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://GiadaNcode.github.io/kitties/images/kitty3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
